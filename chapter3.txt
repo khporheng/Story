@@ -1,0 +1,3 @@
+Type some text. This is a rudimentary text editor, but it's good for quick notes or code. You can use the Enter key to go to the next line.
+Press Control + Z when you're finished editing the file.
+Press the Enter key. You'll see "1 file(s) copied," which means your file is now saved with the name you created.

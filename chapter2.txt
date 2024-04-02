@@ -1,0 +1,1 @@
+Replace filename.txt with whatever you want to call your new file. The ".txt" part indicates that this is a plain text file. Other common file extensions include ".docx" (Word document), ".png" (empty photo),and ".rtf" (rich text document). All of these file types can be read on any Windows computer without installing additional software.
